@@ -132,7 +132,7 @@ Distilling thirty recommendations across six perspectives into a coherent prepar
 │     Safety nets, transition suppot, equitable access.       │
 │     Because individual preparatin without structural        │
 │     reform produces winners andcasualties.                  │
-│     (MiniMax, Sonnet, DeepSeek Qwen)                        │
+│     (MiniMax, Sonnet, DeepSeek, Qwen)                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
