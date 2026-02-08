@@ -102,38 +102,38 @@ Distilling thirty recommendations across six perspectives into a coherent prepar
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│           THE FIVE CAPACITIES FOR THE AI ERA                 │
+│           THE FIVE CAPACITIES FOR THE AI ERA                │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  1. ORCHESTRATION                                            │
-│     Direct AI, evaluate outputs, integrate with judgment.    │
-│     The "conductor" skill. Teach from age 12.                │
-│     (All six agree)                                          │
-│                                                              │
-│  2. VERIFICATION                                             │
-│     Epistemic resilience. Source triangulation.               │
-│     Deepfake detection. Cryptographic literacy.              │
-│     The democratic survival skill.                           │
+│                                                             │
+│  1. ORCHESTRATION                                           │
+│     Direct AI, evaluate outputs, integrate with judgment.   │
+│     The "conductor" skill. Teach from age 12.               │
+│     (All six agree)                                         │
+│                                                             │
+│  2. VERIFICATION                                            │
+│     Epistemic resilience. Source triangulation.             │
+│     Deepfake detection. Cryptographic literacy.             │
+│     The democratic survival skill.                          │
 │     (GPT, Gemini, Qwen)                                     │
-│                                                              │
-│  3. EMBODIMENT                                               │
-│     Physical presence, empathy, trust-building,              │
-│     hands-on making. What machines cannot replicate          │
-│     (yet). The premium human skill.                          │
-│     (Sonnet, GPT, Gemini, MiniMax)                           │
-│                                                              │
-│  4. ADAPTABILITY                                             │
-│     Learning-to-learn. Portfolio careers.                    │
-│     Career pivots every 5–7 years as baseline.               │
-│     Modular credentials over fixed degrees.                  │
-│     (All six agree)                                          │
-│                                                              │
-│  5. SOLIDARITY                                               │
-│     Safety nets, transition support, equitable access.       │
-│     Because individual preparation without structural        │
-│     reform produces winners and casualties.                  │
-│     (MiniMax, Sonnet, DeepSeek, Qwen)                        │
-│                                                              │
+│                                                             │
+│  3. EMBODIMENT                                              │
+│     Physical presence, empathy, trust-building              │
+│     hands-on making. What machines cannot repicate          │
+│     (yet). The premium human skill.                         │
+│     (Sonnet, GPT, Gemini, MiniMax)                          │
+│                                                             │
+│  4. ADAPTABILITY                                            │
+│     Learning-to-learn. Portfolio careers                    │
+│     Career pivots every 5–7 years as baeline.               │
+│     Modular credentials over fixed degees.                  │
+│     (All six agree)                                         │
+│                                                             │
+│  5. SOLIDARITY                                              │
+│     Safety nets, transition suppot, equitable access.       │
+│     Because individual preparatin without structural        │
+│     reform produces winners andcasualties.                  │
+│     (MiniMax, Sonnet, DeepSeek Qwen)                        │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
