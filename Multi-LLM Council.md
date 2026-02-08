@@ -6,9 +6,9 @@ The fix: route each persona to a **different LLM provider**.
 
 ```
          ┌─────────────────────────────────┐
-         │         OPUS (Claude)            │
-         │   Crafts persona prompts         │
-         │   Selects provider per persona   │
+         │         OPUS (Claude)           │
+         │   Crafts persona prompts        │
+         │   Selects provider per persona  │
          └───────────┬─────────────────────┘
                      │
        ┌─────────────┼─────────────────┐
